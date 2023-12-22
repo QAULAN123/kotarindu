@@ -147,7 +147,7 @@ body {
    font-size: 1.4rem;
    margin-bottom: 1rem;
    font-weight: 100;
-   line-height: 1.6;
+   line-height: 1.7;
 }
 
 /* media queries */
@@ -202,6 +202,20 @@ body {
       object-fit: cover;
       object-position: center;
    }
+   .about .row .content {
+      padding: 0;
+   }
+
+   .about .row .content h3 {
+      margin-top: 1rem;
+      font-size: 2rem;
+   }
+
+   .about .row .content p {
+      font-size: 1.6rem;
+   }
+
+
 
 }
 
